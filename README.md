@@ -1,4 +1,4 @@
-### Technical Summary: **Stack‑Augmented Decoder‑Only Transformer with Frozen Arithmetic Tools**
+**Stack‑Augmented Decoder‑Only Transformer with Frozen Arithmetic Tools**
 
 ---
 
